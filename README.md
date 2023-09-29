@@ -1,2 +1,5 @@
-# left-side-warning
-Creation of a device that allows to detect potential obstacles for a person in wheelchair that cannot perceive the left side of visual space.
+# Introduction
+In the context of the EPFL Assistive Technologies Challenge 2023, this MAKE interdisciplinary project is organised by the Swiss association Hackahealth where the aim is to develop a personnalized solution to assist impairment of a real patient (hereinafter referred to as "the Challenger") by tackling one of his daily challenge. Its development is always carried out in ongoing collaboration with the Challenger who is the primary user of the final product. The solution development method follows the principles of the V-model, to try to meet the needs of the Challenger.
+
+# Motivation
+In this specific project, the aim is to help the person move around in a wheelchair by creating a device that allows to detect potential obstacles. This `Project_Report.pdf` presents this project by first providing the context, followed by the existing solutions and our final solution in a way so that one can reproduce it easily, from the manufacturing to the algorithm developed for the obstacle detection. Finally, further improvements are presented along with the conclusion.
